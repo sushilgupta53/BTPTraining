@@ -1,2 +1,2 @@
-# BTPTraining
-Repository created for BTP training
+# app - App
+> MY first Business Application ----
