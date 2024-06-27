@@ -1,2 +1,2 @@
 # app - App
-> MY first Business Application ----
+#application created for training purpose
